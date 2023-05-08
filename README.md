@@ -8,5 +8,5 @@ Se debe desarrollar un API RESTful que contenga un único endpoint el cual retor
 
 #### Codigo
 
-- [Resolucion en Python]()
-- [Resolucion en Golang]()
+- [Resolucion en Python](https://github.com/davdprado/Ejercicio_Backend/tree/main/API-Python)
+- [Resolucion en Golang](https://github.com/davdprado/Ejercicio_Backend/tree/main/Pgolang)
